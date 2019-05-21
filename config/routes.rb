@@ -7,5 +7,5 @@ Rails.application.routes.draw do
   # the route, we'll keep it explicit for now and refactor later.
 
 
-  
+
 end
